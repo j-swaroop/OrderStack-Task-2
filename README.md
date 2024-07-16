@@ -5,16 +5,6 @@
   ## Problem statement: Given a number n, write a JavaScript program to print a diamond star pattern of 2n - 1 rows.
   
   Example: If n = 5, the program should output the following pattern:
-  
-      *
-     * *
-    * * *
-   * * * * 
-  * * * * *
-   * * * *
-    * * * 
-     * *
-      *
 
 
 # Problem-2
